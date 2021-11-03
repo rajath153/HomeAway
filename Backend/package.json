@@ -33,6 +33,6 @@
     "react-moment": "^0.8.2",
     "should": "^13.2.3",
     "supertest": "^3.3.0",
-    "validator": "^10.7.1"
+    "validator": "^13.7.0"
   }
 }
